@@ -47,8 +47,9 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:JEEVITHA.E
+### Register Number:212222230054
+![image](https://github.com/Jeevithaelumalai/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118708245/ba130dcc-5e51-4dc7-913f-c22f5fa96c2c)
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
